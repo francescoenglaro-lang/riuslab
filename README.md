@@ -4,7 +4,7 @@ App per Mac di Rius Lab. Qui si scaricano le versioni pronte da installare (il c
 
 | App | Cosa fa | Scarica |
 |---|---|---|
-| **DynamicNotch** | Un pannello che scende dal notch del MacBook: screenshot, appunti, traduzione, musica, agenda, timer e altro, tutto in un posto. | [Versione 1.23.5](https://github.com/francescoenglaro-lang/riuslab/releases/tag/dynamicnotch-1.23.5) · [scarica il .dmg](https://github.com/francescoenglaro-lang/riuslab/releases/download/dynamicnotch-1.23.5/DynamicNotch-1.23.5.dmg) |
+| **DynamicNotch** | Un pannello che scende dal notch del MacBook: screenshot, appunti, traduzione, musica, agenda, timer e altro, tutto in un posto. | [Versione 1.24.2](https://github.com/francescoenglaro-lang/riuslab/releases/tag/dynamicnotch-1.24.2) · [scarica il .dmg](https://github.com/francescoenglaro-lang/riuslab/releases/download/dynamicnotch-1.24.2/DynamicNotch-1.24.2.dmg) |
 | **Dictify** | Detta in qualsiasi app, in italiano, anche con traduzione; tutto sul Mac. | [Versione 1.0.4](https://github.com/francescoenglaro-lang/riuslab/releases/tag/dictify-1.0.4) · [scarica il .dmg](https://github.com/francescoenglaro-lang/riuslab/releases/download/dictify-1.0.4/Dictify-1.0.4.dmg) |
 
 ## Installare
